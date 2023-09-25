@@ -1,5 +1,5 @@
 <a href="https://github.com/waldymarxthf">
-  <img src="https://raw.githubusercontent.com/waldymarxthf/image-for-readme/main/waldymarxthf%20(2).png?token=GHSAT0AAAAAAB6V2AGKA6A4OIC3IEUCBVYCZISAG3Q" alt="
+  <img src="https://github.com/waldymarxthf/waldymarxthf/assets/56730796/e5d5d55c-ce08-41b1-bfaf-39fd9ead7465" alt="
       waldymarxthf" align="center"/>
 </a>
 
